@@ -1,34 +1,22 @@
 {
   "streams": [
     {
-      "title": "Ralph's Stream",
-      "description": "NSFW",
+      "title": "another testq2",
+      "description": "SO MANY TESTS, EH?",
+      "userId": "110804966733812as666619",
+      "id": 6
+    },
+    {
+      "title": "hello",
+      "description": "world",
       "userId": "110804966733812666619",
-      "id": 1
+      "id": 7
     },
     {
-      "title": "Jimmy's Coding Stream",
-      "description": "Just a cool guy coding sick apps, bruh",
+      "title": "More tests",
+      "description": "G stylee",
       "userId": "110804966733812666619",
-      "id": 2
-    },
-    {
-      "title": "John's Stream",
-      "description": "BBQ & foot massage channel",
-      "userId": "1108049asdasda12666619",
-      "id": 3
-    },
-    {
-      "title": "Leroy's Murican Football Stream",
-      "description": "Looking at some superb owls",
-      "userId": "1108049asdasd3812666619",
-      "id": 4
-    },
-    {
-      "title": "ralph testies",
-      "description": "...riiiight",
-      "userId": "110804966733812666619",
-      "id": 5
+      "id": 8
     }
   ]
 }
